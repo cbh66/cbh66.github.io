@@ -76,7 +76,15 @@ li > * {
     float: left;
 }
 
+body > p {
+    margin: 10px 25px;
+}
+
 p.rightalign {
     margin-right: 50px;
     float: right;
+}
+
+p.narration {
+    margin: 25px 50px;
 }
