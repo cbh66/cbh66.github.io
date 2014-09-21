@@ -1,0 +1,82 @@
+body
+{
+    font-family:Arial, Helvetica, sans-serif;
+    line-height:125%;
+    margin:0px;
+}
+
+div#toolbar
+{
+    background-color:#0099FF;
+    color:#FFFFFF;
+    margin:0px;
+    top:0px;
+    width:100%;
+}
+
+#toolbar a:link, #toolbar a:visited
+{
+    display:inline-block;
+    width:150px;
+    padding:10px;
+    color:#FFFFFF;
+    text-align:center;
+    text-decoration:none;
+}
+
+#toolbar a:hover, #toolbar a:active
+{
+    background-color:#000000;
+}
+
+h1 {
+    text-align: center;
+}
+
+li h2 {
+    margin: 15px 0px;
+}
+
+ul {
+    clear: both;
+}
+
+.accomplishments {
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+body > ul {
+    list-style: none;
+}
+
+body > ul > li {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+li > * {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 15px;
+}
+
+#coursework {
+    border-collapse: collapse;
+    border: none;
+    margin-left: 50px;
+}
+
+#coursework td {
+    width: 300px;
+}
+
+.label {
+    font-weight: bold;
+    float: left;
+}
+
+p.rightalign {
+    margin-right: 50px;
+    float: right;
+}
