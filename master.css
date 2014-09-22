@@ -80,11 +80,23 @@ body > p {
     margin: 10px 25px;
 }
 
-p.rightalign {
+.rightalign {
     margin-right: 50px;
     float: right;
 }
 
+.leftalign {
+    margin-left: 50px;
+    float: left;
+}
+
 p.narration {
     margin: 25px 50px;
+}
+
+img.profile-picture {
+    height: 300px;
+    width: 240px;
+    float: left;
+    margin: 25px;
 }
