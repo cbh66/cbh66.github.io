@@ -46,7 +46,7 @@ ul {
     margin-bottom: 15px;
 }
 
-body > ul {
+ul.nostyle {
     list-style: none;
 }
 
