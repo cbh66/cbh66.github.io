@@ -90,6 +90,10 @@ body > p {
     float: left;
 }
 
+.aside {
+    font-style: italic;
+}
+
 p.narration {
     margin: 25px 50px;
 }
