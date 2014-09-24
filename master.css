@@ -104,3 +104,15 @@ img.profile-picture {
     float: left;
     margin: 25px;
 }
+
+a:link {
+    color: #0099FF;
+}
+
+a:visited {
+    color: #710CE8;
+}
+
+a:hover, a:active {
+    text-decoration: none;
+}
