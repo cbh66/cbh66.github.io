@@ -99,8 +99,6 @@ p.narration {
 }
 
 img.profile-picture {
-    height: 300px;
-    width: 240px;
     float: left;
     margin: 25px;
 }
