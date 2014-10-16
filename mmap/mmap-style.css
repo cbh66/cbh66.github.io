@@ -1,0 +1,36 @@
+
+html, body, #mmap
+{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#mmap {
+    float: left;
+    width: 65%;
+}
+
+#sidebar {
+    float: right;
+    width: 35%;
+}
+
+#intro {
+
+    font-family: "Brush Script MT", cursive;
+    font-size: 22px;
+    text-align: center;
+}
+
+#charinfo {
+    margin: 0% 5%;
+}
+
+.titletext {
+    font-size: 28px;
+}
+
+.smalltext {
+    font-size: 18px;
+}
